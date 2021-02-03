@@ -197,7 +197,7 @@ def Spam():
 	os.system('clear')
 	print(C+'Wajib SUBCRIBE '+W+' Goblog !'+C+' :V')
 	sleep(1.5)
-	os.system('xdg-open https://youtube.com/SandiW')
+	os.system('xdg-open https://youtube.com/channel/UCj7RQZl2gSaVlYDJ4le5_vQ')
 	os.system('clear')
 	sleep(1.3)
 	Banner()
